@@ -2,24 +2,6 @@
 
 ![1](https://github.com/user-attachments/assets/3a51d2dd-dfd1-49a9-bef4-d481d89a2289)
 
-### Table of Contents
-- [Overview](#overview)
-- [Project Motivation](#project-motivation)
-- [Imported Libraries and Set Seeds](#imported-libraries-and-set-seeds)
-- [Dataset structure](#dataset-structure)
-- [Data Preparation](#data-preparation)
-- [Data Augmentation and Loading](#data-augmentation-and-loading)
-- [Training Configuration](#training-configuration)
-- [Callback Setup](#callback-setup)
-- [Log Directory Setup](#log-directory-setup)
-- [Training History Visualization](#training-history-visualization)
-- [Model Architecture: EfficientNetB0-Based Classifier](#model-architecture-efficientnetb0-based-classifier)
-- [Model Training Report](#model-training-report)
-- [Sample Predictions Visualization](#sample-predictions-visualization)
-- [Generating Test Set Predictions and Saving to CSV](#generating-test-set-predictions-and-saving-to-csv)
-- [Conclusion](#conclusion)
-
-
 ## <span style="color:red">Overview</span>
 This project focuses on building a **deep learning model** to classify images into one of **73 sports categories**. Using a diverse dataset of sports images, the goal is to achieve efficient and accurate classification through a **multi-class image classification model**. This classifier is built with a robust architecture and optimized for handling a wide range of sports, from team sports to individual athletic events. The model’s potential applications include **automated sports categorization for media content, sports analytics, and real-time classification** in various sports-related scenarios.
 
